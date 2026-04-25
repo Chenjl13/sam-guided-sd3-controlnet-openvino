@@ -8,10 +8,10 @@ a cat wearing a sunglasses and a dog wearing a hat
 Then we may attain the generated image
 <img src="imgs/T2I.png">
 
-## Mask Generation
+## Mask Generation ([Demo](Code/MaskGen.py))
 <img src="imgs/MaskGen.png">
 
-## Inpainting
+## Inpainting ([Demo](Code/Inpaint.py))
 <img src="imgs/Inpaint.png">
 
 
