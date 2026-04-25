@@ -1,5 +1,6 @@
-# Welcome to the Text To Image phase
+# Welcome to the 3-phase-image-generating and inpainting
 
+##
 We can use the following prompt to create an image
 ```
 a cat wearing a sunglasses and a dog wearing a hat
