@@ -4,7 +4,7 @@ Summer internship
 <img src="imgs/Sunglass_Cat.png">
 
 ## 3-phase-image-generating and inpainting
-[Process](Process/readme.md) is available here.
+[Process](Process/readme.md) and [Code](Process/Code) are available here.
 
 ### Text to Image
 Giving the text input, stable diffusion 3 can generate the matched image. 
