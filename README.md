@@ -16,6 +16,6 @@ Giving the image, SAM2 creates the mask based of chosen point or bbox.
 Giving the original image, its mask and prompt for replacing, stable diffusion 3 can inpaint the image.
 
 ## Deployment based on OpenVINO
-<img src="imgs/OV_Result.png">
+<img src="imgs/OV_Result.jpg">
 
 
